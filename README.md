@@ -62,7 +62,7 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 
 2. User Authentication
 
-   - **Endpoints**: /users/, /users/{user_id}/
+   - **Endpoints**: `/users/`, `/users/{user_id}/`
    - **Features**: Register new users, authenticate, and manage user profiles.
 
 3. Property Management
